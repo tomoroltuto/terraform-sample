@@ -38,4 +38,4 @@ terraformを使用してAWSのインフラ自動構成しています。
 
 ・Terraform
 　
- 　v1.1.1　on linux_amd64
+    v1.1.1　on linux_amd64
