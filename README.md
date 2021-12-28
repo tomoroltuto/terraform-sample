@@ -11,5 +11,7 @@ prd(本番環境)ではポート２２、８０番のみ組み込んでいるの
 
 # 3.terraformのディレクトリ構成図
 
+![terraform-Directory- configuration-diagram](https://user-images.githubusercontent.com/90845405/147535054-9fa1d6fe-08ac-41ec-8222-911539cc1f60.jpg)
+
 # 4.terraformのインフラ構成図
 ![terraform Diagram](https://user-images.githubusercontent.com/90845405/147535092-71bd24f9-9c55-4e42-bbec-b460f5375c9c.jpg)
