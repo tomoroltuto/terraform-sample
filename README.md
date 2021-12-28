@@ -1,13 +1,13 @@
 
-# 1.terraform-sample
+# terraform-sample
 
 terraformを使用してAWSのインフラ自動構成しています。
 
-# 3.terraformのディレクトリ構成図
+# terraformのディレクトリ構成図
 
 ![terraform-Directory- configuration-diagram](https://user-images.githubusercontent.com/90845405/147535054-9fa1d6fe-08ac-41ec-8222-911539cc1f60.jpg)
 
-# 4.terraformのインフラ構成図
+# terraformのインフラ構成図
 ![terraform Diagram](https://user-images.githubusercontent.com/90845405/147536223-3cffde63-736e-41e2-8a58-389d576e571e.jpg)
 
 # 特徴
