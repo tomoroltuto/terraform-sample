@@ -74,12 +74,3 @@ module "rds_instance" {
   security_group_id      = module.security_group.ec2_sg_id
   my_env                 = "dev"
 }
-
-module "alb" {
-  source = "../module/ALB"
-  vpc_id                 = module.vpc.vpc_id  
-  subnet_ids             = [module.subnet.public1_id,module.subnet.public2_id]
-  target_id              = module.ec2_instance.ec2_instanc_id
-  my_env= "dev"
-}
-
