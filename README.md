@@ -42,4 +42,4 @@ terraformを使用してAWSのインフラ自動構成しています。
 
 ・Terraform_version
 　
- 　　V1.1.1　on linux_amd64
+ 　　V1.1.1　
