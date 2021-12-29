@@ -30,7 +30,7 @@ terraformを使用してAWSのインフラ自動構成しています。
 
 ・cloud9　Configuration
 
-  　Environment type = Create a new EC2 instance for environment
+   　Environment type = Create a new EC2 instance for environment
     
     Instance type = t2.micro
   
