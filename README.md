@@ -4,9 +4,6 @@
 terraform-sampleは、terraformを利用したAWSのインフラ自動構成ができます。
 
 # terraformのディレクトリ構成
-
-![terraform-Directory- configuration-diagram](https://user-images.githubusercontent.com/90845405/147535054-9fa1d6fe-08ac-41ec-8222-911539cc1f60.jpg)
-
 ```bash
 tf-sample
  ├── module
