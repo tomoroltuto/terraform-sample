@@ -57,7 +57,8 @@ terraformを使用してAWSのインフラ自動構成しています。
      $ . ~/.bashrc
 ```      
 # Usage
- *　File settings
+
+ * File settings
 
  ~/terraform-sample/dev or ~/terraform-sample/prd
  
