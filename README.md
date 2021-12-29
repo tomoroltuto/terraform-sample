@@ -30,7 +30,7 @@ terraformを使用してAWSのインフラ自動構成しています。
 
 * cloud9　Configuration
 ```bash
-   　Environment type = Create a new EC2 instance for environment(direct access)
+    Environment type = Create a new EC2 instance for environment(direct access)
     
     Instance type = t2.micro
   
