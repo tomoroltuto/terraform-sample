@@ -51,3 +51,7 @@ terraformを使用してAWSのインフラ自動構成しています。
      $ sudoyum-config-manager --add-repo https://rpm.releases.hashicorp.com/AmazonLinux/hashicorp.repo
      
      $ sudoyum -y install terraform
+     
+     $ terraform -install-autocomplete
+     
+     $ . ~/.bashrc
