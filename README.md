@@ -40,7 +40,7 @@ terraformを使用してAWSのインフラ自動構成しています。
 ```bash
      mysql 8.0
 ```
-・Terraform_version
+* Terraform_version
 ```bash
      V 1.1.1
 ```     
