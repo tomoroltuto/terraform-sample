@@ -43,3 +43,11 @@ terraformを使用してAWSのインフラ自動構成しています。
 ・Terraform_version
 
      V 1.1.1　
+     
+# Install
+
+     $ sudoyum install -y yum-utils
+     
+     $ sudoyum-config-manager --add-repo https://rpm.releases.hashicorp.com/AmazonLinux/hashicorp.repo
+     
+     $ sudoyum -y install terraform
