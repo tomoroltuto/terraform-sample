@@ -69,7 +69,7 @@ terraform-sampleは、terraformを利用しAWSのインフラ自動構成がで�
   ``` 
  * Change the S3 packet name in main.tf of each environment
  
-     ~/dev/main.tf  　or  　~/dev/main.tf
+     ~/dev/main.tf  　or  　~/prd/main.tf
      
   ```bash    
      bucket = "bucket-name"
