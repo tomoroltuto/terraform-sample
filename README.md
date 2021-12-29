@@ -41,5 +41,5 @@ terraformを使用してAWSのインフラ自動構成しています。
      mysql 8.0
 
 ・Terraform_version
-　
- 　　V1.1.1　
+
+     V 1.1.1　
