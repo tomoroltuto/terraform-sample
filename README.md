@@ -1,7 +1,7 @@
 
 # terraform-sample
 
-terraformを使用してAWSのインフラ自動構成しています。
+terraform-sampleは、terraformを利用しAWSのインフラ自動構成ができます。
 
 # terraformのディレクトリ構成
 
