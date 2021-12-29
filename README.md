@@ -60,7 +60,7 @@ terraform-sampleは、terraformを利用しAWSのインフラ自動構成がで�
 
  * File settings
 
-     ~/terraform-sample/dev  or  ~/terraform-sample/prd
+     ~/terraform-sample/dev 　 or　 ~/terraform-sample/prd
      
  * Create an S3 bucket
 
