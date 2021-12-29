@@ -28,7 +28,7 @@ terraformを使用してAWSのインフラ自動構成しています。
 
 # Requirement
 
-・cloud9
+・cloud9　Configuration
 
   　Environment type = Create a new EC2 instance for environment
     
