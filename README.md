@@ -46,11 +46,11 @@ terraformを使用してAWSのインフラ自動構成しています。
 ```    
 # Install
 ```bash
-     $ sudoyum install -y yum-utils
+     $ sudo yum install -y yum-utils
      
-     $ sudoyum-config-manager --add-repo https://rpm.releases.hashicorp.com/AmazonLinux/hashicorp.repo
+     $ sudo yum-config-manager --add-repo https://rpm.releases.hashicorp.com/AmazonLinux/hashicorp.repo
      
-     $ sudoyum -y install terraform
+     $ sudo yum -y install terraform
      
      $ terraform -install-autocomplete
      
@@ -60,7 +60,7 @@ terraformを使用してAWSのインフラ自動構成しています。
 
  * File settings
 
-     ~/terraform-sample/dev or ~/terraform-sample/prd
+     ~/terraform-sample/dev  or  ~/terraform-sample/prd
  
  * command
  ```bash
