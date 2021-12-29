@@ -60,13 +60,15 @@ terraformを使用してAWSのインフラ自動構成しています。
 
  * File settings
 
- ~/terraform-sample/dev or ~/terraform-sample/prd
+    ~/terraform-sample/dev or ~/terraform-sample/prd
  
  * command
  ```bash
     
     $ terraform init
+    
     $ terraform plan
+    
     $ terraform apply
     
  ```  
