@@ -35,6 +35,11 @@ terraformを使用してAWSのインフラ自動構成しています。
     Instance type = t2.micro
   
     Platform =  Amazon Linux 2
+    
+・Engine_version 
 
-・Terraform　version
-　v1.1.1　on linux_amd64
+     mysql 8.0
+
+・Terraform_version
+　
+ 　　V1.1.1　on linux_amd64
