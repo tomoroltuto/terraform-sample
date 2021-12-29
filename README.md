@@ -3,7 +3,7 @@
 
 terraformを使用してAWSのインフラ自動構成しています。
 
-# terraformのディレクトリ構成図
+# terraformのディレクトリ構成
 
 ![terraform-Directory- configuration-diagram](https://user-images.githubusercontent.com/90845405/147535054-9fa1d6fe-08ac-41ec-8222-911539cc1f60.jpg)
 
@@ -37,5 +37,4 @@ terraformを使用してAWSのインフラ自動構成しています。
     Platform =  Amazon Linux 2
 
 ・Terraform　version
-　
-    v1.1.1　on linux_amd64
+　v1.1.1　on linux_amd64
