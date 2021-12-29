@@ -61,7 +61,19 @@ terraform-sampleは、terraformを利用しAWSのインフラ自動構成がで�
  * File settings
 
      ~/terraform-sample/dev  or  ~/terraform-sample/prd
+     
+ * Create an S3 bucket
+
+  ```bash
+     $ aws s3 mb s3://bucket-name
+  ``` 
+ * Rename S3 packets in a folder
  
+     ~/dev/main.tf  or  ~/dev/main.tf
+     
+  ```bash    
+     bucket = "bucket-name"
+  ```   
  * command
  ```bash
     
