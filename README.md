@@ -64,7 +64,7 @@ tf-sample
 
   ※EC2の中には何もインストールされてません。
 
-# Requirement
+# 開発環境
 
 * cloud9　Configuration
 ```bash
@@ -74,10 +74,6 @@ tf-sample
   
     Platform =  Amazon Linux 2
 ```    
-* Engine_version 
-```bash
-     mysql 8.0
-```
 * Terraform_version
 ```bash
      V 1.1.1
