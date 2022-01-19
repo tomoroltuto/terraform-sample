@@ -1,7 +1,7 @@
 
 # terraform-sample
 
-terraform-sampleは、terraformを利用したAWSのインフラ自動構成ができます。
+terraform-sampleは、Terraforｍのmodule機能を使用してAWS環境のコード化をしたインフラ構築したものです。
 
 # terraformのディレクトリ構成
 ```bash
